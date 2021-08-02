@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "64816933901",
+    "project_id": "uas-login-dart",
+    "storage_bucket": "uas-login-dart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64816933901:android:d0e3b80b4243d8a4d5b944",
+        "android_client_info": {
+          "package_name": "com.example.uaslogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64816933901-ojjuno7001d2gqo5qmr45dinis9hhb42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjxqDaw4tVlauA906x08JtWuRUnzCCcvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64816933901-ojjuno7001d2gqo5qmr45dinis9hhb42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
